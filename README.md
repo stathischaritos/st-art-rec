@@ -9,7 +9,7 @@ Currently there are four notebooks that contain the code needed to create the da
 
 
 The dataset is made of three files. The comments, submissions, and raw images as numpy arrays.
-In order to load the data correctly we need to make use of the Dataset class found in the Experiments notebook.
+In order to load the data correctly we need to make use of the Dataset class found in the Experiments notebook. The dataset was last updated in April 2021.
 
 https://storage.googleapis.com/pushshift_reddit/comment_april.json
 https://storage.googleapis.com/pushshift_reddit/submission_april.json
