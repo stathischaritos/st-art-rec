@@ -1,6 +1,10 @@
 # st-art-rec
 Code for Artwork Recommender Thesis Project
 
+The thesis can be read here:
+https://scripties.uba.uva.nl/search?id=723723
+
+
 Currently there are four notebooks that contain the code needed to create the dataset and run the experiments. 
     - The Scraper notebook is a small script that downloads the initial data.
     - The Dataset notebook contains the functions needed for cleaning the data and downloading the images.
